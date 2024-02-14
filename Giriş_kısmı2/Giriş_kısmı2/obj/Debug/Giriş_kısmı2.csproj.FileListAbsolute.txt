@@ -1,0 +1,340 @@
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Giriş_kısmı2.exe.config
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Giriş_kısmı2.exe
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Giriş_kısmı2.pdb
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Google.Protobuf.dll
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\MySql.Data.dll
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\MySql.Data.EntityFrameworkCore.dll
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\MySqlConnector.dll
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.Buffers.dll
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.Collections.Immutable.dll
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.IO.Pipelines.dll
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.Memory.dll
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Google.Protobuf.pdb
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Google.Protobuf.xml
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\MySql.Data.xml
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\MySql.Data.EntityFrameworkCore.xml
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\MySqlConnector.xml
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.Buffers.xml
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.Collections.Immutable.xml
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.IO.Pipelines.xml
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.Memory.xml
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\obj\Debug\Giriş_kısmı2.csproj.AssemblyReference.cache
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\obj\Debug\Giriş_kısmı2.csproj.SuggestedBindingRedirects.cache
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\obj\Debug\Giriş_kısmı2.Form1.resources
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\obj\Debug\Giriş_kısmı2.Properties.Resources.resources
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\obj\Debug\Giriş_kısmı2.csproj.GenerateResource.cache
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\obj\Debug\Giriş_kısmı2.csproj.CoreCompileInputs.cache
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\obj\Debug\Giriş_kısmı2.csproj.CopyComplete
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\obj\Debug\Giriş_kısmı2.exe
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\obj\Debug\Giriş_kısmı2.pdb
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Proje.exe
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\İZİN_İSTEME_SAYFASI.exe
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Proje.pdb
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Proje.exe.config
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\İZİN_İSTEME_SAYFASI.pdb
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\İZİN_İSTEME_SAYFASI.exe.config
+C:\Users\erolo\source\repos\Giriş_kısmı2\Giriş_kısmı2\obj\Debug\Giriş_kısmı2.personel_anamenu.resources
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Giriş_kısmı2.exe.config
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Giriş_kısmı2.exe
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Giriş_kısmı2.pdb
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Google.Protobuf.dll
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\MySql.Data.dll
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\MySql.Data.EntityFrameworkCore.dll
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\MySqlConnector.dll
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Proje.exe
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.Buffers.dll
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.Collections.Immutable.dll
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.IO.Pipelines.dll
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.Memory.dll
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\İZİN_İSTEME_SAYFASI.exe
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Proje.pdb
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Proje.exe.config
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\İZİN_İSTEME_SAYFASI.pdb
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\İZİN_İSTEME_SAYFASI.exe.config
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Google.Protobuf.pdb
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Google.Protobuf.xml
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\MySql.Data.xml
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\MySql.Data.EntityFrameworkCore.xml
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\MySqlConnector.xml
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.Buffers.xml
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.Collections.Immutable.xml
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.IO.Pipelines.xml
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.Memory.xml
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\obj\Debug\Giriş_kısmı2.csproj.AssemblyReference.cache
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\obj\Debug\Giriş_kısmı2.csproj.SuggestedBindingRedirects.cache
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\obj\Debug\Giriş_kısmı2.Form1.resources
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\obj\Debug\Giriş_kısmı2.personel_anamenu.resources
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\obj\Debug\Giriş_kısmı2.Properties.Resources.resources
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\obj\Debug\Giriş_kısmı2.csproj.GenerateResource.cache
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\obj\Debug\Giriş_kısmı2.csproj.CoreCompileInputs.cache
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\obj\Debug\Giriş_kısmı2.csproj.CopyComplete
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\obj\Debug\Giriş_kısmı2.exe
+C:\Users\erolo\OneDrive\Masaüstü\Giriş_kısmı2\Giriş_kısmı2\obj\Debug\Giriş_kısmı2.pdb
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Giriş_kısmı2.exe.config
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Giriş_kısmı2.exe
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Giriş_kısmı2.pdb
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Google.Protobuf.dll
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\MySql.Data.dll
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\MySql.Data.EntityFrameworkCore.dll
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\MySqlConnector.dll
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Proje.exe
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.Buffers.dll
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.Collections.Immutable.dll
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.IO.Pipelines.dll
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.Memory.dll
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\İZİN_İSTEME_SAYFASI.exe
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Proje.pdb
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Proje.exe.config
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\İZİN_İSTEME_SAYFASI.pdb
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\İZİN_İSTEME_SAYFASI.exe.config
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Google.Protobuf.pdb
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Google.Protobuf.xml
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\MySql.Data.xml
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\MySql.Data.EntityFrameworkCore.xml
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\MySqlConnector.xml
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.Buffers.xml
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.Collections.Immutable.xml
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.IO.Pipelines.xml
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.Memory.xml
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\obj\Debug\Giriş_kısmı2.csproj.AssemblyReference.cache
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\obj\Debug\Giriş_kısmı2.csproj.SuggestedBindingRedirects.cache
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\obj\Debug\Giriş_kısmı2.Form1.resources
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\obj\Debug\Giriş_kısmı2.personel_anamenu.resources
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\obj\Debug\Giriş_kısmı2.Properties.Resources.resources
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\obj\Debug\Giriş_kısmı2.csproj.GenerateResource.cache
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\obj\Debug\Giriş_kısmı2.csproj.CoreCompileInputs.cache
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\obj\Debug\Giriş_kısmı2.csproj.CopyComplete
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\obj\Debug\Giriş_kısmı2.exe
+C:\Users\erolo\OneDrive\Masaüstü\BM102 PROJE\Giriş_kısmı2\Giriş_kısmı2\obj\Debug\Giriş_kısmı2.pdb
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Giriş_kısmı2.exe.config
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Giriş_kısmı2.exe
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Giriş_kısmı2.pdb
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Google.Protobuf.dll
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\MySql.Data.dll
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\MySql.Data.EntityFrameworkCore.dll
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\MySqlConnector.dll
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Proje.exe
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.Buffers.dll
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.Collections.Immutable.dll
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.IO.Pipelines.dll
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.Memory.dll
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\İZİN_İSTEME_SAYFASI.exe
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Proje.pdb
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Proje.exe.config
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\İZİN_İSTEME_SAYFASI.pdb
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\İZİN_İSTEME_SAYFASI.exe.config
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Google.Protobuf.pdb
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Google.Protobuf.xml
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\MySql.Data.xml
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\MySql.Data.EntityFrameworkCore.xml
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\MySqlConnector.xml
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.Buffers.xml
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.Collections.Immutable.xml
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.IO.Pipelines.xml
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.Memory.xml
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\obj\Debug\Giriş_kısmı2.csproj.AssemblyReference.cache
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\obj\Debug\Giriş_kısmı2.csproj.SuggestedBindingRedirects.cache
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\obj\Debug\Giriş_kısmı2.Form1.resources
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\obj\Debug\Giriş_kısmı2.personel_anamenu.resources
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\obj\Debug\Giriş_kısmı2.Properties.Resources.resources
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\obj\Debug\Giriş_kısmı2.csproj.GenerateResource.cache
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\obj\Debug\Giriş_kısmı2.csproj.CoreCompileInputs.cache
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\obj\Debug\Giriş_kısmı2.csproj.CopyComplete
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\obj\Debug\Giriş_kısmı2.exe
+C:\Users\utcan\Desktop\BM102 PROJE2\Giriş_kısmı2\Giriş_kısmı2\obj\Debug\Giriş_kısmı2.pdb
